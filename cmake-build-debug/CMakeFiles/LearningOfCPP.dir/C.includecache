@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/renzhenming/CLionProjects/LearningOfCPP/3.栈内存申请.c
+/Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c
+ctype.h
+-
 stdio.h
 -
 

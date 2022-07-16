@@ -79,6 +79,9 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/1.内存申请-malloc.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/2.内存申请-reallock.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>
@@ -86,6 +89,21 @@
 			<Option target="LearningOfCPP"/>
 		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/4.函数指针.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/5.字符串的两种形式.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/6.字符串长度获取两种方式.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/7.字符串转数字.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/8.字符串的比较.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/9.字符串的查找拼接包含.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/CMakeLists.txt">

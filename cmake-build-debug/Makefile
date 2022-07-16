@@ -170,6 +170,33 @@ LearningOfCPP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.s
 .PHONY : 1.内存申请-malloc.c.s
 
+10.字符串大小写转换.o: 10.字符串大小写转换.c.o
+
+.PHONY : 10.字符串大小写转换.o
+
+# target to build an object file
+10.字符串大小写转换.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o
+.PHONY : 10.字符串大小写转换.c.o
+
+10.字符串大小写转换.i: 10.字符串大小写转换.c.i
+
+.PHONY : 10.字符串大小写转换.i
+
+# target to preprocess a source file
+10.字符串大小写转换.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.i
+.PHONY : 10.字符串大小写转换.c.i
+
+10.字符串大小写转换.s: 10.字符串大小写转换.c.s
+
+.PHONY : 10.字符串大小写转换.s
+
+# target to generate assembly for a file
+10.字符串大小写转换.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.s
+.PHONY : 10.字符串大小写转换.c.s
+
 2.内存申请-reallock.o: 2.内存申请-reallock.c.o
 
 .PHONY : 2.内存申请-reallock.o
@@ -251,6 +278,141 @@ LearningOfCPP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/4.函数指针.c.s
 .PHONY : 4.函数指针.c.s
 
+5.字符串的两种形式.o: 5.字符串的两种形式.c.o
+
+.PHONY : 5.字符串的两种形式.o
+
+# target to build an object file
+5.字符串的两种形式.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o
+.PHONY : 5.字符串的两种形式.c.o
+
+5.字符串的两种形式.i: 5.字符串的两种形式.c.i
+
+.PHONY : 5.字符串的两种形式.i
+
+# target to preprocess a source file
+5.字符串的两种形式.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.i
+.PHONY : 5.字符串的两种形式.c.i
+
+5.字符串的两种形式.s: 5.字符串的两种形式.c.s
+
+.PHONY : 5.字符串的两种形式.s
+
+# target to generate assembly for a file
+5.字符串的两种形式.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.s
+.PHONY : 5.字符串的两种形式.c.s
+
+6.字符串长度获取两种方式.o: 6.字符串长度获取两种方式.c.o
+
+.PHONY : 6.字符串长度获取两种方式.o
+
+# target to build an object file
+6.字符串长度获取两种方式.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o
+.PHONY : 6.字符串长度获取两种方式.c.o
+
+6.字符串长度获取两种方式.i: 6.字符串长度获取两种方式.c.i
+
+.PHONY : 6.字符串长度获取两种方式.i
+
+# target to preprocess a source file
+6.字符串长度获取两种方式.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.i
+.PHONY : 6.字符串长度获取两种方式.c.i
+
+6.字符串长度获取两种方式.s: 6.字符串长度获取两种方式.c.s
+
+.PHONY : 6.字符串长度获取两种方式.s
+
+# target to generate assembly for a file
+6.字符串长度获取两种方式.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.s
+.PHONY : 6.字符串长度获取两种方式.c.s
+
+7.字符串转数字.o: 7.字符串转数字.c.o
+
+.PHONY : 7.字符串转数字.o
+
+# target to build an object file
+7.字符串转数字.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o
+.PHONY : 7.字符串转数字.c.o
+
+7.字符串转数字.i: 7.字符串转数字.c.i
+
+.PHONY : 7.字符串转数字.i
+
+# target to preprocess a source file
+7.字符串转数字.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.i
+.PHONY : 7.字符串转数字.c.i
+
+7.字符串转数字.s: 7.字符串转数字.c.s
+
+.PHONY : 7.字符串转数字.s
+
+# target to generate assembly for a file
+7.字符串转数字.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.s
+.PHONY : 7.字符串转数字.c.s
+
+8.字符串的比较.o: 8.字符串的比较.c.o
+
+.PHONY : 8.字符串的比较.o
+
+# target to build an object file
+8.字符串的比较.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o
+.PHONY : 8.字符串的比较.c.o
+
+8.字符串的比较.i: 8.字符串的比较.c.i
+
+.PHONY : 8.字符串的比较.i
+
+# target to preprocess a source file
+8.字符串的比较.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.i
+.PHONY : 8.字符串的比较.c.i
+
+8.字符串的比较.s: 8.字符串的比较.c.s
+
+.PHONY : 8.字符串的比较.s
+
+# target to generate assembly for a file
+8.字符串的比较.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.s
+.PHONY : 8.字符串的比较.c.s
+
+9.字符串的查找拼接包含.o: 9.字符串的查找拼接包含.c.o
+
+.PHONY : 9.字符串的查找拼接包含.o
+
+# target to build an object file
+9.字符串的查找拼接包含.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o
+.PHONY : 9.字符串的查找拼接包含.c.o
+
+9.字符串的查找拼接包含.i: 9.字符串的查找拼接包含.c.i
+
+.PHONY : 9.字符串的查找拼接包含.i
+
+# target to preprocess a source file
+9.字符串的查找拼接包含.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.i
+.PHONY : 9.字符串的查找拼接包含.c.i
+
+9.字符串的查找拼接包含.s: 9.字符串的查找拼接包含.c.s
+
+.PHONY : 9.字符串的查找拼接包含.s
+
+# target to generate assembly for a file
+9.字符串的查找拼接包含.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.s
+.PHONY : 9.字符串的查找拼接包含.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -263,6 +425,9 @@ help:
 	@echo "... 1.内存申请-malloc.o"
 	@echo "... 1.内存申请-malloc.i"
 	@echo "... 1.内存申请-malloc.s"
+	@echo "... 10.字符串大小写转换.o"
+	@echo "... 10.字符串大小写转换.i"
+	@echo "... 10.字符串大小写转换.s"
 	@echo "... 2.内存申请-reallock.o"
 	@echo "... 2.内存申请-reallock.i"
 	@echo "... 2.内存申请-reallock.s"
@@ -272,6 +437,21 @@ help:
 	@echo "... 4.函数指针.o"
 	@echo "... 4.函数指针.i"
 	@echo "... 4.函数指针.s"
+	@echo "... 5.字符串的两种形式.o"
+	@echo "... 5.字符串的两种形式.i"
+	@echo "... 5.字符串的两种形式.s"
+	@echo "... 6.字符串长度获取两种方式.o"
+	@echo "... 6.字符串长度获取两种方式.i"
+	@echo "... 6.字符串长度获取两种方式.s"
+	@echo "... 7.字符串转数字.o"
+	@echo "... 7.字符串转数字.i"
+	@echo "... 7.字符串转数字.s"
+	@echo "... 8.字符串的比较.o"
+	@echo "... 8.字符串的比较.i"
+	@echo "... 8.字符串的比较.s"
+	@echo "... 9.字符串的查找拼接包含.o"
+	@echo "... 9.字符串的查找拼接包含.i"
+	@echo "... 9.字符串的查找拼接包含.s"
 .PHONY : help
 
 

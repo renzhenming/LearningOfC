@@ -129,12 +129,96 @@ CMakeFiles/LearningOfCPP.dir/4.函数指针.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/4.函数指针.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/4.函数指针.c -o CMakeFiles/LearningOfCPP.dir/4.函数指针.c.s
 
+CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o: ../5.字符串的两种形式.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/5.字符串的两种形式.c
+
+CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/5.字符串的两种形式.c > CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.i
+
+CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/5.字符串的两种形式.c -o CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.s
+
+CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o: ../6.字符串长度获取两种方式.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/6.字符串长度获取两种方式.c
+
+CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/6.字符串长度获取两种方式.c > CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.i
+
+CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/6.字符串长度获取两种方式.c -o CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.s
+
+CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o: ../7.字符串转数字.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/7.字符串转数字.c
+
+CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/7.字符串转数字.c > CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.i
+
+CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/7.字符串转数字.c -o CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.s
+
+CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o: ../8.字符串的比较.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/8.字符串的比较.c
+
+CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/8.字符串的比较.c > CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.i
+
+CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/8.字符串的比较.c -o CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.s
+
+CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o: ../9.字符串的查找拼接包含.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/9.字符串的查找拼接包含.c
+
+CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/9.字符串的查找拼接包含.c > CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.i
+
+CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/9.字符串的查找拼接包含.c -o CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.s
+
+CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o: ../10.字符串大小写转换.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c
+
+CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c > CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.i
+
+CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c -o CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.s
+
 # Object files for target LearningOfCPP
 LearningOfCPP_OBJECTS = \
 "CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o" \
 "CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o" \
 "CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o" \
-"CMakeFiles/LearningOfCPP.dir/4.函数指针.c.o"
+"CMakeFiles/LearningOfCPP.dir/4.函数指针.c.o" \
+"CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o" \
+"CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o" \
+"CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o" \
+"CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o" \
+"CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o" \
+"CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o"
 
 # External object files for target LearningOfCPP
 LearningOfCPP_EXTERNAL_OBJECTS =
@@ -143,9 +227,15 @@ LearningOfCPP: CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/4.函数指针.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/build.make
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable LearningOfCPP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable LearningOfCPP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LearningOfCPP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -12,7 +12,7 @@ int method1(int age, int age2, int (*call)(int, int)) {
     return call(age, age2);
 }
 
-int main() {
+int main4() {
     int age = method1(12, 13, method2);
     printf("%d", age);
     return 0;

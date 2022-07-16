@@ -3,9 +3,21 @@
 
 CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o: ../1.内存申请-malloc.c
 
+CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o: ../10.字符串大小写转换.c
+
 CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o: ../2.内存申请-reallock.c
 
 CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o: ../3.栈内存申请.c
 
 CMakeFiles/LearningOfCPP.dir/4.函数指针.c.o: ../4.函数指针.c
+
+CMakeFiles/LearningOfCPP.dir/5.字符串的两种形式.c.o: ../5.字符串的两种形式.c
+
+CMakeFiles/LearningOfCPP.dir/6.字符串长度获取两种方式.c.o: ../6.字符串长度获取两种方式.c
+
+CMakeFiles/LearningOfCPP.dir/7.字符串转数字.c.o: ../7.字符串转数字.c
+
+CMakeFiles/LearningOfCPP.dir/8.字符串的比较.c.o: ../8.字符串的比较.c
+
+CMakeFiles/LearningOfCPP.dir/9.字符串的查找拼接包含.c.o: ../9.字符串的查找拼接包含.c
 
