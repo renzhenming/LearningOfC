@@ -82,6 +82,24 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/11.结构体.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/12.结构体指针.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/13.结构体嵌套.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/14.结构体数组.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/15.结构体平台兼容写法.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/16.枚举.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/2.内存申请-reallock.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>

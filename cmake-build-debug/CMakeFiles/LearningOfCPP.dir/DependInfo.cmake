@@ -6,6 +6,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/renzhenming/CLionProjects/LearningOfCPP/1.内存申请-malloc.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o"
   "/Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o"
+  "/Users/renzhenming/CLionProjects/LearningOfCPP/11.结构体.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/11.结构体.c.o"
+  "/Users/renzhenming/CLionProjects/LearningOfCPP/12.结构体指针.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.o"
+  "/Users/renzhenming/CLionProjects/LearningOfCPP/13.结构体嵌套.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/13.结构体嵌套.c.o"
+  "/Users/renzhenming/CLionProjects/LearningOfCPP/14.结构体数组.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.o"
+  "/Users/renzhenming/CLionProjects/LearningOfCPP/15.结构体平台兼容写法.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o"
+  "/Users/renzhenming/CLionProjects/LearningOfCPP/16.枚举.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/16.枚举.c.o"
   "/Users/renzhenming/CLionProjects/LearningOfCPP/2.内存申请-reallock.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o"
   "/Users/renzhenming/CLionProjects/LearningOfCPP/3.栈内存申请.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o"
   "/Users/renzhenming/CLionProjects/LearningOfCPP/4.函数指针.c" "/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles/LearningOfCPP.dir/4.函数指针.c.o"

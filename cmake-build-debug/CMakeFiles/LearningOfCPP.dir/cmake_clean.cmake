@@ -1,6 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o"
   "CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o"
+  "CMakeFiles/LearningOfCPP.dir/11.结构体.c.o"
+  "CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.o"
+  "CMakeFiles/LearningOfCPP.dir/13.结构体嵌套.c.o"
+  "CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.o"
+  "CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o"
+  "CMakeFiles/LearningOfCPP.dir/16.枚举.c.o"
   "CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o"
   "CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o"
   "CMakeFiles/LearningOfCPP.dir/4.函数指针.c.o"

@@ -5,6 +5,18 @@ CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o: ../1.内存申请-malloc
 
 CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.o: ../10.字符串大小写转换.c
 
+CMakeFiles/LearningOfCPP.dir/11.结构体.c.o: ../11.结构体.c
+
+CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.o: ../12.结构体指针.c
+
+CMakeFiles/LearningOfCPP.dir/13.结构体嵌套.c.o: ../13.结构体嵌套.c
+
+CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.o: ../14.结构体数组.c
+
+CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o: ../15.结构体平台兼容写法.c
+
+CMakeFiles/LearningOfCPP.dir/16.枚举.c.o: ../16.枚举.c
+
 CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o: ../2.内存申请-reallock.c
 
 CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o: ../3.栈内存申请.c

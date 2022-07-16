@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/renzhenming/CLionProjects/LearningOfCPP/10.字符串大小写转换.c
-ctype.h
--
+/Users/renzhenming/CLionProjects/LearningOfCPP/16.枚举.c
 stdio.h
 -
 

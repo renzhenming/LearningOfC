@@ -197,6 +197,168 @@ LearningOfCPP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/10.字符串大小写转换.c.s
 .PHONY : 10.字符串大小写转换.c.s
 
+11.结构体.o: 11.结构体.c.o
+
+.PHONY : 11.结构体.o
+
+# target to build an object file
+11.结构体.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/11.结构体.c.o
+.PHONY : 11.结构体.c.o
+
+11.结构体.i: 11.结构体.c.i
+
+.PHONY : 11.结构体.i
+
+# target to preprocess a source file
+11.结构体.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/11.结构体.c.i
+.PHONY : 11.结构体.c.i
+
+11.结构体.s: 11.结构体.c.s
+
+.PHONY : 11.结构体.s
+
+# target to generate assembly for a file
+11.结构体.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/11.结构体.c.s
+.PHONY : 11.结构体.c.s
+
+12.结构体指针.o: 12.结构体指针.c.o
+
+.PHONY : 12.结构体指针.o
+
+# target to build an object file
+12.结构体指针.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.o
+.PHONY : 12.结构体指针.c.o
+
+12.结构体指针.i: 12.结构体指针.c.i
+
+.PHONY : 12.结构体指针.i
+
+# target to preprocess a source file
+12.结构体指针.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.i
+.PHONY : 12.结构体指针.c.i
+
+12.结构体指针.s: 12.结构体指针.c.s
+
+.PHONY : 12.结构体指针.s
+
+# target to generate assembly for a file
+12.结构体指针.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.s
+.PHONY : 12.结构体指针.c.s
+
+13.结构体嵌套.o: 13.结构体嵌套.c.o
+
+.PHONY : 13.结构体嵌套.o
+
+# target to build an object file
+13.结构体嵌套.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/13.结构体嵌套.c.o
+.PHONY : 13.结构体嵌套.c.o
+
+13.结构体嵌套.i: 13.结构体嵌套.c.i
+
+.PHONY : 13.结构体嵌套.i
+
+# target to preprocess a source file
+13.结构体嵌套.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/13.结构体嵌套.c.i
+.PHONY : 13.结构体嵌套.c.i
+
+13.结构体嵌套.s: 13.结构体嵌套.c.s
+
+.PHONY : 13.结构体嵌套.s
+
+# target to generate assembly for a file
+13.结构体嵌套.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/13.结构体嵌套.c.s
+.PHONY : 13.结构体嵌套.c.s
+
+14.结构体数组.o: 14.结构体数组.c.o
+
+.PHONY : 14.结构体数组.o
+
+# target to build an object file
+14.结构体数组.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.o
+.PHONY : 14.结构体数组.c.o
+
+14.结构体数组.i: 14.结构体数组.c.i
+
+.PHONY : 14.结构体数组.i
+
+# target to preprocess a source file
+14.结构体数组.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.i
+.PHONY : 14.结构体数组.c.i
+
+14.结构体数组.s: 14.结构体数组.c.s
+
+.PHONY : 14.结构体数组.s
+
+# target to generate assembly for a file
+14.结构体数组.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.s
+.PHONY : 14.结构体数组.c.s
+
+15.结构体平台兼容写法.o: 15.结构体平台兼容写法.c.o
+
+.PHONY : 15.结构体平台兼容写法.o
+
+# target to build an object file
+15.结构体平台兼容写法.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o
+.PHONY : 15.结构体平台兼容写法.c.o
+
+15.结构体平台兼容写法.i: 15.结构体平台兼容写法.c.i
+
+.PHONY : 15.结构体平台兼容写法.i
+
+# target to preprocess a source file
+15.结构体平台兼容写法.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.i
+.PHONY : 15.结构体平台兼容写法.c.i
+
+15.结构体平台兼容写法.s: 15.结构体平台兼容写法.c.s
+
+.PHONY : 15.结构体平台兼容写法.s
+
+# target to generate assembly for a file
+15.结构体平台兼容写法.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.s
+.PHONY : 15.结构体平台兼容写法.c.s
+
+16.枚举.o: 16.枚举.c.o
+
+.PHONY : 16.枚举.o
+
+# target to build an object file
+16.枚举.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/16.枚举.c.o
+.PHONY : 16.枚举.c.o
+
+16.枚举.i: 16.枚举.c.i
+
+.PHONY : 16.枚举.i
+
+# target to preprocess a source file
+16.枚举.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/16.枚举.c.i
+.PHONY : 16.枚举.c.i
+
+16.枚举.s: 16.枚举.c.s
+
+.PHONY : 16.枚举.s
+
+# target to generate assembly for a file
+16.枚举.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/16.枚举.c.s
+.PHONY : 16.枚举.c.s
+
 2.内存申请-reallock.o: 2.内存申请-reallock.c.o
 
 .PHONY : 2.内存申请-reallock.o
@@ -428,6 +590,24 @@ help:
 	@echo "... 10.字符串大小写转换.o"
 	@echo "... 10.字符串大小写转换.i"
 	@echo "... 10.字符串大小写转换.s"
+	@echo "... 11.结构体.o"
+	@echo "... 11.结构体.i"
+	@echo "... 11.结构体.s"
+	@echo "... 12.结构体指针.o"
+	@echo "... 12.结构体指针.i"
+	@echo "... 12.结构体指针.s"
+	@echo "... 13.结构体嵌套.o"
+	@echo "... 13.结构体嵌套.i"
+	@echo "... 13.结构体嵌套.s"
+	@echo "... 14.结构体数组.o"
+	@echo "... 14.结构体数组.i"
+	@echo "... 14.结构体数组.s"
+	@echo "... 15.结构体平台兼容写法.o"
+	@echo "... 15.结构体平台兼容写法.i"
+	@echo "... 15.结构体平台兼容写法.s"
+	@echo "... 16.枚举.o"
+	@echo "... 16.枚举.i"
+	@echo "... 16.枚举.s"
 	@echo "... 2.内存申请-reallock.o"
 	@echo "... 2.内存申请-reallock.i"
 	@echo "... 2.内存申请-reallock.s"

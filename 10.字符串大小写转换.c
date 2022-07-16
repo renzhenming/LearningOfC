@@ -16,7 +16,7 @@ void lower(char *src, char *dst) {
 }
 
 
-int main() {
+int main10() {
     char *str = "RZM";
     char arr[10];
 
