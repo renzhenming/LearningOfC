@@ -285,6 +285,84 @@ CMakeFiles/LearningOfCPP.dir/16.枚举.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/16.枚举.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/16.枚举.c -o CMakeFiles/LearningOfCPP.dir/16.枚举.c.s
 
+CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o: ../17.文件读取.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/17.文件读取.c
+
+CMakeFiles/LearningOfCPP.dir/17.文件读取.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/17.文件读取.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/17.文件读取.c > CMakeFiles/LearningOfCPP.dir/17.文件读取.c.i
+
+CMakeFiles/LearningOfCPP.dir/17.文件读取.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/17.文件读取.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/17.文件读取.c -o CMakeFiles/LearningOfCPP.dir/17.文件读取.c.s
+
+CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o: ../18.文件写入.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/18.文件写入.c
+
+CMakeFiles/LearningOfCPP.dir/18.文件写入.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/18.文件写入.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/18.文件写入.c > CMakeFiles/LearningOfCPP.dir/18.文件写入.c.i
+
+CMakeFiles/LearningOfCPP.dir/18.文件写入.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/18.文件写入.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/18.文件写入.c -o CMakeFiles/LearningOfCPP.dir/18.文件写入.c.s
+
+CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o: ../19.文件复制.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/19.文件复制.c
+
+CMakeFiles/LearningOfCPP.dir/19.文件复制.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/19.文件复制.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/19.文件复制.c > CMakeFiles/LearningOfCPP.dir/19.文件复制.c.i
+
+CMakeFiles/LearningOfCPP.dir/19.文件复制.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/19.文件复制.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/19.文件复制.c -o CMakeFiles/LearningOfCPP.dir/19.文件复制.c.s
+
+CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o: ../20.获取文件大小.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/20.获取文件大小.c
+
+CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/20.获取文件大小.c > CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.i
+
+CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/20.获取文件大小.c -o CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.s
+
+CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o: ../21.文件加密.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/21.文件加密.c
+
+CMakeFiles/LearningOfCPP.dir/21.文件加密.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/21.文件加密.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/21.文件加密.c > CMakeFiles/LearningOfCPP.dir/21.文件加密.c.i
+
+CMakeFiles/LearningOfCPP.dir/21.文件加密.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/21.文件加密.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/21.文件加密.c -o CMakeFiles/LearningOfCPP.dir/21.文件加密.c.s
+
+CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o: CMakeFiles/LearningOfCPP.dir/flags.make
+CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o: ../22.文件解密.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o   -c /Users/renzhenming/CLionProjects/LearningOfCPP/22.文件解密.c
+
+CMakeFiles/LearningOfCPP.dir/22.文件解密.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LearningOfCPP.dir/22.文件解密.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/renzhenming/CLionProjects/LearningOfCPP/22.文件解密.c > CMakeFiles/LearningOfCPP.dir/22.文件解密.c.i
+
+CMakeFiles/LearningOfCPP.dir/22.文件解密.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LearningOfCPP.dir/22.文件解密.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/renzhenming/CLionProjects/LearningOfCPP/22.文件解密.c -o CMakeFiles/LearningOfCPP.dir/22.文件解密.c.s
+
 # Object files for target LearningOfCPP
 LearningOfCPP_OBJECTS = \
 "CMakeFiles/LearningOfCPP.dir/1.内存申请-malloc.c.o" \
@@ -302,7 +380,13 @@ LearningOfCPP_OBJECTS = \
 "CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.o" \
 "CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.o" \
 "CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o" \
-"CMakeFiles/LearningOfCPP.dir/16.枚举.c.o"
+"CMakeFiles/LearningOfCPP.dir/16.枚举.c.o" \
+"CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o" \
+"CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o" \
+"CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o" \
+"CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o" \
+"CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o" \
+"CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o"
 
 # External object files for target LearningOfCPP
 LearningOfCPP_EXTERNAL_OBJECTS =
@@ -323,9 +407,15 @@ LearningOfCPP: CMakeFiles/LearningOfCPP.dir/12.结构体指针.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/14.结构体数组.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/16.枚举.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o
+LearningOfCPP: CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/build.make
 LearningOfCPP: CMakeFiles/LearningOfCPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking C executable LearningOfCPP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/renzhenming/CLionProjects/LearningOfCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable LearningOfCPP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LearningOfCPP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

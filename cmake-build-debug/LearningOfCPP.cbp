@@ -100,7 +100,25 @@
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/16.枚举.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/17.文件读取.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/18.文件写入.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/19.文件复制.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/2.内存申请-reallock.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/20.获取文件大小.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/21.文件加密.c">
+			<Option target="LearningOfCPP"/>
+		</Unit>
+		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/22.文件解密.c">
 			<Option target="LearningOfCPP"/>
 		</Unit>
 		<Unit filename="/Users/renzhenming/CLionProjects/LearningOfCPP/3.栈内存申请.c">

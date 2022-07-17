@@ -17,7 +17,19 @@ CMakeFiles/LearningOfCPP.dir/15.结构体平台兼容写法.c.o: ../15.结构体
 
 CMakeFiles/LearningOfCPP.dir/16.枚举.c.o: ../16.枚举.c
 
+CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o: ../17.文件读取.c
+
+CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o: ../18.文件写入.c
+
+CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o: ../19.文件复制.c
+
 CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.o: ../2.内存申请-reallock.c
+
+CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o: ../20.获取文件大小.c
+
+CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o: ../21.文件加密.c
+
+CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o: ../22.文件解密.c
 
 CMakeFiles/LearningOfCPP.dir/3.栈内存申请.c.o: ../3.栈内存申请.c
 

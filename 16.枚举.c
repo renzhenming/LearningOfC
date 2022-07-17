@@ -19,7 +19,7 @@ typedef enum {
 } MONTH;
 
 
-int main() {
+int main16() {
     enum Week one = M;
     enum Week two = T;
     enum Week THREE = W;

@@ -359,6 +359,87 @@ LearningOfCPP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/16.枚举.c.s
 .PHONY : 16.枚举.c.s
 
+17.文件读取.o: 17.文件读取.c.o
+
+.PHONY : 17.文件读取.o
+
+# target to build an object file
+17.文件读取.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/17.文件读取.c.o
+.PHONY : 17.文件读取.c.o
+
+17.文件读取.i: 17.文件读取.c.i
+
+.PHONY : 17.文件读取.i
+
+# target to preprocess a source file
+17.文件读取.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/17.文件读取.c.i
+.PHONY : 17.文件读取.c.i
+
+17.文件读取.s: 17.文件读取.c.s
+
+.PHONY : 17.文件读取.s
+
+# target to generate assembly for a file
+17.文件读取.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/17.文件读取.c.s
+.PHONY : 17.文件读取.c.s
+
+18.文件写入.o: 18.文件写入.c.o
+
+.PHONY : 18.文件写入.o
+
+# target to build an object file
+18.文件写入.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/18.文件写入.c.o
+.PHONY : 18.文件写入.c.o
+
+18.文件写入.i: 18.文件写入.c.i
+
+.PHONY : 18.文件写入.i
+
+# target to preprocess a source file
+18.文件写入.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/18.文件写入.c.i
+.PHONY : 18.文件写入.c.i
+
+18.文件写入.s: 18.文件写入.c.s
+
+.PHONY : 18.文件写入.s
+
+# target to generate assembly for a file
+18.文件写入.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/18.文件写入.c.s
+.PHONY : 18.文件写入.c.s
+
+19.文件复制.o: 19.文件复制.c.o
+
+.PHONY : 19.文件复制.o
+
+# target to build an object file
+19.文件复制.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/19.文件复制.c.o
+.PHONY : 19.文件复制.c.o
+
+19.文件复制.i: 19.文件复制.c.i
+
+.PHONY : 19.文件复制.i
+
+# target to preprocess a source file
+19.文件复制.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/19.文件复制.c.i
+.PHONY : 19.文件复制.c.i
+
+19.文件复制.s: 19.文件复制.c.s
+
+.PHONY : 19.文件复制.s
+
+# target to generate assembly for a file
+19.文件复制.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/19.文件复制.c.s
+.PHONY : 19.文件复制.c.s
+
 2.内存申请-reallock.o: 2.内存申请-reallock.c.o
 
 .PHONY : 2.内存申请-reallock.o
@@ -385,6 +466,87 @@ LearningOfCPP/fast:
 2.内存申请-reallock.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/2.内存申请-reallock.c.s
 .PHONY : 2.内存申请-reallock.c.s
+
+20.获取文件大小.o: 20.获取文件大小.c.o
+
+.PHONY : 20.获取文件大小.o
+
+# target to build an object file
+20.获取文件大小.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.o
+.PHONY : 20.获取文件大小.c.o
+
+20.获取文件大小.i: 20.获取文件大小.c.i
+
+.PHONY : 20.获取文件大小.i
+
+# target to preprocess a source file
+20.获取文件大小.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.i
+.PHONY : 20.获取文件大小.c.i
+
+20.获取文件大小.s: 20.获取文件大小.c.s
+
+.PHONY : 20.获取文件大小.s
+
+# target to generate assembly for a file
+20.获取文件大小.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/20.获取文件大小.c.s
+.PHONY : 20.获取文件大小.c.s
+
+21.文件加密.o: 21.文件加密.c.o
+
+.PHONY : 21.文件加密.o
+
+# target to build an object file
+21.文件加密.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/21.文件加密.c.o
+.PHONY : 21.文件加密.c.o
+
+21.文件加密.i: 21.文件加密.c.i
+
+.PHONY : 21.文件加密.i
+
+# target to preprocess a source file
+21.文件加密.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/21.文件加密.c.i
+.PHONY : 21.文件加密.c.i
+
+21.文件加密.s: 21.文件加密.c.s
+
+.PHONY : 21.文件加密.s
+
+# target to generate assembly for a file
+21.文件加密.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/21.文件加密.c.s
+.PHONY : 21.文件加密.c.s
+
+22.文件解密.o: 22.文件解密.c.o
+
+.PHONY : 22.文件解密.o
+
+# target to build an object file
+22.文件解密.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/22.文件解密.c.o
+.PHONY : 22.文件解密.c.o
+
+22.文件解密.i: 22.文件解密.c.i
+
+.PHONY : 22.文件解密.i
+
+# target to preprocess a source file
+22.文件解密.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/22.文件解密.c.i
+.PHONY : 22.文件解密.c.i
+
+22.文件解密.s: 22.文件解密.c.s
+
+.PHONY : 22.文件解密.s
+
+# target to generate assembly for a file
+22.文件解密.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearningOfCPP.dir/build.make CMakeFiles/LearningOfCPP.dir/22.文件解密.c.s
+.PHONY : 22.文件解密.c.s
 
 3.栈内存申请.o: 3.栈内存申请.c.o
 
@@ -608,9 +770,27 @@ help:
 	@echo "... 16.枚举.o"
 	@echo "... 16.枚举.i"
 	@echo "... 16.枚举.s"
+	@echo "... 17.文件读取.o"
+	@echo "... 17.文件读取.i"
+	@echo "... 17.文件读取.s"
+	@echo "... 18.文件写入.o"
+	@echo "... 18.文件写入.i"
+	@echo "... 18.文件写入.s"
+	@echo "... 19.文件复制.o"
+	@echo "... 19.文件复制.i"
+	@echo "... 19.文件复制.s"
 	@echo "... 2.内存申请-reallock.o"
 	@echo "... 2.内存申请-reallock.i"
 	@echo "... 2.内存申请-reallock.s"
+	@echo "... 20.获取文件大小.o"
+	@echo "... 20.获取文件大小.i"
+	@echo "... 20.获取文件大小.s"
+	@echo "... 21.文件加密.o"
+	@echo "... 21.文件加密.i"
+	@echo "... 21.文件加密.s"
+	@echo "... 22.文件解密.o"
+	@echo "... 22.文件解密.i"
+	@echo "... 22.文件解密.s"
 	@echo "... 3.栈内存申请.o"
 	@echo "... 3.栈内存申请.i"
 	@echo "... 3.栈内存申请.s"
